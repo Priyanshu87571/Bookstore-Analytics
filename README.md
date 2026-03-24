@@ -4,7 +4,7 @@ Bookstore Analytics – SQL Analytics System
 A complete SQL-based analytics system designed for a bookstore to analyze sales performance, customer behavior, marketing ROI, and churn patterns.
 This project demonstrates how structured data + SQL can drive actionable business insights for decision-making.
 
-🚀 Project Overview
+ Project Overview
 
 This analytics system helps a bookstore answer critical business questions by analyzing:
 
