@@ -93,6 +93,7 @@ marketing_campaigns
 Each SQL file focuses on a different business problem.
 
 ## Key Business Insights Generated
+
 1️⃣ Sales Performance
 
 Total revenue
