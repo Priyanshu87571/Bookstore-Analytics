@@ -53,7 +53,9 @@ Bookstore-Analytics/
 ├── sql/
 
 │   ├── schema.sql
+
 │   ├── data_insert.sql
+
 │   ├── sales_analysis.sql
 │   ├── customer_behavior.sql
 │   ├── marketing_roi.sql
