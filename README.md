@@ -39,6 +39,7 @@ Excel / Power BI / Tableau (optional for visualizations)
 Bookstore-Analytics/
 
 ├── datasets/
+
 │   ├── customers.csv
 │   ├── books.csv
 │   ├── orders.csv
@@ -56,7 +57,6 @@ Bookstore-Analytics/
 │   └── insights.md
 ├── README.md
 └── .gitignore
-
 
 (Modify based on your actual folder structure.)
 
