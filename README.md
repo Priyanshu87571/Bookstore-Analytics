@@ -34,6 +34,7 @@ CTEs, Views, Stored Procedures (if applicable)
 
 Excel / Power BI / Tableau (optional for visualizations)
 
+
 📁 Project Structure
 
 Bookstore-Analytics/
@@ -45,6 +46,7 @@ Bookstore-Analytics/
 │   ├── books.csv
 
 │   ├── orders.csv
+
 │   ├── order_items.csv
 │   └── marketing_campaigns.csv
 ├── sql/
