@@ -67,7 +67,9 @@ Bookstore-Analytics/
 │   └── product_performance.sql
 
 ├── reports/
+
 │   └── insights.md
+
 ├── README.md
 └── .gitignore
 
