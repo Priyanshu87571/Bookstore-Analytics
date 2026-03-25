@@ -63,12 +63,13 @@ Bookstore-Analytics/
 │   ├── marketing_roi.sql
 
 │   ├── churn_analysis.sql
+
 │   └── product_performance.sql
+
 ├── reports/
 │   └── insights.md
 ├── README.md
 └── .gitignore
-
 
 (Modify based on your actual folder structure.)
 
