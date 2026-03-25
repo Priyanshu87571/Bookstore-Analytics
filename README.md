@@ -37,6 +37,7 @@ Excel / Power BI / Tableau (optional for visualizations)
 📁 Project Structure
 
 Bookstore-Analytics/
+
 ├── datasets/
 │   ├── customers.csv
 │   ├── books.csv
