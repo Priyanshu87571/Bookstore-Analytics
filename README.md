@@ -71,7 +71,9 @@ Bookstore-Analytics/
 │   └── insights.md
 
 ├── README.md
+
 └── .gitignore
+
 
 (Modify based on your actual folder structure.)
 
