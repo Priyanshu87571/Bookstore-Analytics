@@ -74,10 +74,9 @@ Bookstore-Analytics/
 
 └── .gitignore
 
-
 (Modify based on your actual folder structure.)
 
-🧱 Database Schema
+ Database Schema
 
 Typical included tables:
 
