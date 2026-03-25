@@ -22,7 +22,7 @@ This analytics system helps a bookstore answer critical business questions by an
 
 The project includes database schema design, SQL queries, analytics reports, KPIs, and visual summaries.
 
-🛠️ Tech Stack
+ Tech Stack
 
 SQL (MySQL / PostgreSQL / SQLite)
 
