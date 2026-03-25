@@ -43,6 +43,7 @@ Bookstore-Analytics/
 │   ├── customers.csv
 
 │   ├── books.csv
+
 │   ├── orders.csv
 │   ├── order_items.csv
 │   └── marketing_campaigns.csv
@@ -60,7 +61,6 @@ Bookstore-Analytics/
 └── .gitignore
 
 (Modify based on your actual folder structure.)
-
 
 🧱 Database Schema
 
